@@ -1,0 +1,14 @@
+{
+  "name": "weapp",
+  "version": "0.0.0",
+  "description": "微信小程序自动补全",
+  "keywords": [
+  ],
+  "repository": "https://github.com/xiadd/atom-wxapp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
